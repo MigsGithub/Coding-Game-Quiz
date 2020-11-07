@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  background-color: rgb(217, 235, 208);
+}
+
+
+/* General Body CSS */
+body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    flex-direction: column;
+}
+
+
+#questions,
+#finished {
+    display: none;  
+  } 
+
+#correctIncorrect {
+    text-align: center;
+}
+
+
+ul.nobullets {
+list-style-type: none;
+}
+
+
+
+
