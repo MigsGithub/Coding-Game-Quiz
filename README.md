@@ -3,10 +3,10 @@ Code Quiz Game!
 
 This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
 
-https://migsgithub.github.io/HW_4/
+https://migsgithub.github.io/Coding-Game-Quiz/
 
+https://github.com/MigsGithub/Coding-Game-Quiz
 
-https://github.com/MigsGithub/HW_4
 
 ![](screen_shot.png)
 
